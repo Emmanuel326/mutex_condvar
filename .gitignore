@@ -1,0 +1,11 @@
+# build artifacts
+test_*
+*.o
+
+# sanitizers / debug
+*.dSYM
+
+# editor
+*~
+*.swp
+
